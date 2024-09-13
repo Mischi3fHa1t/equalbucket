@@ -75,9 +75,8 @@ for feature, importance in zip(features, model.feature_importances_):
 4. Model Evaluation
 Evaluate the model using:
 
-Confusion Matrix: To see the number of true positives, false positives, true negatives, and false negatives.
-Classification Report: To get precision, recall, F1 score, and accuracy.
-Feature Importances: To check how the Decision Tree model has weighted each feature based on its contribution to the decision-making process.
+To check how the Decision Tree model has weighted each feature based on its contribution to the decision-making process.
+
 5. Incorporate Feedback
 If feedback about manual scans is available, you can:
 
