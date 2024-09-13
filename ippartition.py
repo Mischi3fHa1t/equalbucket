@@ -1,5 +1,7 @@
 """
 Split up an array of IP address to number of near equal partitions
+Time Complexity: O(nlogn)
+Space Complexity: O(n)
 """
 import ipaddress
 
